@@ -16,5 +16,11 @@
     "content": "selam",
     "timestamp": "2025-11-22T14:54:01.983Z",
     "type": "text"
+  },
+  {
+    "sender": "e",
+    "content": "data:image/jpeg;base64,undefined",
+    "timestamp": "2025-11-22T14:54:17.220Z",
+    "type": "image"
   }
 ]
