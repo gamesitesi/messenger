@@ -148,5 +148,11 @@
     "content": "Hadi polat",
     "timestamp": "2025-11-23T07:57:48.800Z",
     "type": "text"
+  },
+  {
+    "sender": "E",
+    "content": "data:image/jpeg;base64,undefined",
+    "timestamp": "2025-11-23T07:58:06.900Z",
+    "type": "image"
   }
 ]
