@@ -100,5 +100,11 @@
     "content": "data:image/jpeg;base64,undefined",
     "timestamp": "2025-11-23T07:53:59.629Z",
     "type": "image"
+  },
+  {
+    "sender": "Ey",
+    "content": "Yeee",
+    "timestamp": "2025-11-23T07:54:42.257Z",
+    "type": "text"
   }
 ]
