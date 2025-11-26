@@ -226,5 +226,11 @@
     "content": "data:image/jpeg;base64,undefined",
     "timestamp": "2025-11-26T16:25:19.598Z",
     "type": "image"
+  },
+  {
+    "sender": "Polat",
+    "content": "Naber",
+    "timestamp": "2025-11-26T16:25:23.910Z",
+    "type": "text"
   }
 ]
